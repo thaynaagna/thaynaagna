@@ -4,7 +4,8 @@
 
 <h1>Seja bem-vindo(a) ao meu perfil! 💻</h1>
 
-<p>Dev Back-end • Front-end • Fotografia • Marketing Digital & Empresarial</p>
+<p>💼 Auxiliar Administrativo | Em transição para Desenvolvedora Full Stack Júnior  
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-2C2C2A?style=for-the-badge&logo=python&logoColor=534AB7"/>
