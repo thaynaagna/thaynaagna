@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](URL_DO_SEU_BANNER)
+![Banner](https://github.com/user-attachments/assets/28b20d2b-fe1b-4718-a566-2f6305cb7a3c)
 
 <h1>Olá, eu sou a Thayná Agna 👋</h1>
 
