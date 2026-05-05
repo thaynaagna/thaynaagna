@@ -4,7 +4,7 @@
 
 <h1>Seja bem-vindo(a) ao meu perfil! 💻</h1>
 
-<p>💼 Auxiliar Administrativo | Em transição para Desenvolvedora Full Stack Júnior  
+<p>💼 Auxiliar Administrativo | Em transição para Desenvolvedora Full Stack Júnior | Fotografia | Marketing  
 </p>
 
 <p>
