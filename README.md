@@ -2,7 +2,8 @@
 
 ![Banner](https://github.com/user-attachments/assets/28b20d2b-fe1b-4718-a566-2f6305cb7a3c)
 
-<h1>Olá, eu sou a Thayná Agna 👋</h1>
+<h1>Seja bem-vindo(a) ao meu perfil 👩‍💻
+Desenvolvedora Full Stack em formação</h1>
 
 <p>
 Dev Back-end • Front-end • Fotografia • Marketing Digital & Empresarial
