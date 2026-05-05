@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thaynaagna/thaynaagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](URL_DO_SEU_BANNER)
 
-Here are some ideas to get you started:
+<h1>Olá, eu sou a Thayná Agna 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Dev Back-end • Front-end • Fotografia • Marketing Digital & Empresarial
+</p>
+
+![Python](https://img.shields.io/badge/Python-2C2C2A?style=for-the-badge&logo=python&logoColor=534AB7)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2A?style=for-the-badge&logo=javascript&logoColor=EF9F27)
+![HTML](https://img.shields.io/badge/HTML-2C2C2A?style=for-the-badge&logo=html5&logoColor=D85A30)
+![CSS](https://img.shields.io/badge/CSS-2C2C2A?style=for-the-badge&logo=css3&logoColor=378ADD)
+
+<a href="https://www.linkedin.com/in/thaynaagna">
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-2C2C2A?style=for-the-badge&logo=linkedin&logoColor=378ADD)
+</a>
+<a href="https://instagram.com/thaynaagna">
+  ![Instagram](https://img.shields.io/badge/Instagram-2C2C2A?style=for-the-badge&logo=instagram&logoColor=D4537E)
+</a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=534AB7&icon_color=3B6D11&border_color=2C2C2A)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=534AB7&border_color=2C2C2A)
+
+</div>
