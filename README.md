@@ -6,21 +6,21 @@
 
 <p>Dev Back-end • Front-end • Fotografia • Marketing Digital & Empresarial</p>
 
+<p>
 <img src="https://img.shields.io/badge/Python-2C2C2A?style=for-the-badge&logo=python&logoColor=534AB7"/>
 <img src="https://img.shields.io/badge/JavaScript-2C2C2A?style=for-the-badge&logo=javascript&logoColor=EF9F27"/>
 <img src="https://img.shields.io/badge/HTML-2C2C2A?style=for-the-badge&logo=html5&logoColor=D85A30"/>
 <img src="https://img.shields.io/badge/CSS-2C2C2A?style=for-the-badge&logo=css3&logoColor=378ADD"/>
+</p>
 
-<br/><br/>
-
+<p>
 <a href="https://www.linkedin.com/in/thaynaagna">
 <img src="https://img.shields.io/badge/LinkedIn-2C2C2A?style=for-the-badge&logo=linkedin&logoColor=378ADD"/>
 </a>
 <a href="https://instagram.com/thaynaagna">
 <img src="https://img.shields.io/badge/Instagram-2C2C2A?style=for-the-badge&logo=instagram&logoColor=D4537E"/>
 </a>
-
-<br/><br/>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=thaynaagna&show_icons=true&theme=dark&title_color=534AB7&icon_color=3B6D11&border_color=2C2C2A"/>
 
