@@ -20,9 +20,9 @@
 <a href="https://instagram.com/thaynaagna">
 <img src="https://img.shields.io/badge/Instagram-2C2C2A?style=for-the-badge&logo=instagram&logoColor=D4537E"/>
 </a>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thaynaagna&show_icons=true&theme=dark&title_color=534AB7&icon_color=3B6D11&border_color=2C2C2A"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaagna&layout=compact&theme=dark&title_color=534AB7&border_color=2C2C2A"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaagna&show_icons=true&theme=dark&title_color=534AB7&icon_color=3B6D11&border_color=2C2C2A"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaagna&layout=compact&theme=dark&title_color=534AB7&border_color=2C2C2A"/>
 </p>
 
 </div>
