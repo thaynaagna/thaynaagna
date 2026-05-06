@@ -10,9 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-2C2C2A?style=for-the-badge&logo=javascript&logoColor=EF9F27"/>
 <img src="https://img.shields.io/badge/HTML-2C2C2A?style=for-the-badge&logo=html5&logoColor=D85A30"/>
 <img src="https://img.shields.io/badge/CSS-2C2C2A?style=for-the-badge&logo=css3&logoColor=378ADD"/>
-
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/thaynaagna">
 <img src="https://img.shields.io/badge/LinkedIn-2C2C2A?style=for-the-badge&logo=linkedin&logoColor=378ADD"/>
 </a>
