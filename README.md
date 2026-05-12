@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner Thayná Ágna](https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:7c3aed,100:c4b5fd&height=200&section=header&text=THAYNÁ%20ÁGNA&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=f3eeff&animation=fadeIn)
+![Banner Thayná Ágna](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=200&section=header&text=THAYNÁ%20ÁGNA&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=f3eeff&animation=fadeIn)
 
 </div>
 
@@ -35,11 +35,11 @@ const thaynaagna = {
 
 ### Principais tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,html,css&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,html,css&theme=dark&perline=6)](https://skillicons.dev)
 
 ### Ferramentas e ambiente
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode,tailwind&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode,tailwind&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -62,15 +62,15 @@ const thaynaagna = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaagna&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=f6f0ff&title_color=7c3aed&icon_color=9c6fce&text_color=2d1b69"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaagna&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaagna&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=f6f0ff&title_color=7c3aed&text_color=2d1b69"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaagna&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thaynaagna&theme=default&hide_border=true&background=f6f0ff&stroke=e0d4f7&ring=7c3aed&fire=9c6fce&currStreakLabel=7c3aed&sideNums=2d1b69&sideLabels=9c6fce&dates=9c6fce)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thaynaagna&theme=default&hide_border=true&background=0d1117&stroke=21262d&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=c9d1d9&sideLabels=c084fc&dates=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -80,9 +80,9 @@ const thaynaagna = {
 
 <div align="center">
 
-[![Cálculo](https://github-readme-stats.vercel.app/api/pin/?username=thaynaagna&repo=c%C3%A1lculo&theme=default&hide_border=true&bg_color=f6f0ff&title_color=7c3aed&icon_color=9c6fce&text_color=2d1b69)](https://github.com/thaynaagna/c%C3%A1lculo)
-[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=thaynaagna&repo=portf%C3%B3lio&theme=default&hide_border=true&bg_color=f6f0ff&title_color=7c3aed&icon_color=9c6fce&text_color=2d1b69)](https://github.com/thaynaagna/portf%C3%B3lio)
-[![Café de Origem](https://github-readme-stats.vercel.app/api/pin/?username=thaynaagna&repo=caf%C3%A9%20de%20origem&theme=default&hide_border=true&bg_color=f6f0ff&title_color=7c3aed&icon_color=9c6fce&text_color=2d1b69)](https://github.com/thaynaagna/caf%C3%A9%20de%20origem)
+[![Cálculo](https://github-readme-stats.vercel.app/api/pin/?username=thaynaagna&repo=calculo&theme=default&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9)](https://github.com/thaynaagna/calculo)
+[![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=thaynaagna&repo=portfolio&theme=default&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9)](https://github.com/thaynaagna/portfolio)
+[![Café de Origem](https://github-readme-stats.vercel.app/api/pin/?username=thaynaagna&repo=cafe-de-origem&theme=default&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9)](https://github.com/thaynaagna/cafe-de-origem)
 
 </div>
 
@@ -107,7 +107,7 @@ const thaynaagna = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thaynaagna&bg_color=f6f0ff&color=7c3aed&line=9c6fce&point=2d1b69&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thaynaagna&bg_color=0d1117&color=c084fc&line=a78bfa&point=2d1b69&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -117,10 +117,10 @@ const thaynaagna = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f6f0ff?style=for-the-badge&logo=linkedin&logoColor=7c3aed)](https://www.linkedin.com/in/thaynaagna)
-[![Portfólio](https://img.shields.io/badge/Portfólio-f6f0ff?style=for-the-badge&logo=firefox-browser&logoColor=7c3aed)](https://thaynaagna.github.io/portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-f6f0ff?style=for-the-badge&logo=gmail&logoColor=7c3aed)](mailto:thaynaagna123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-f6f0ff?style=for-the-badge&logo=instagram&logoColor=7c3aed)](https://www.instagram.com/thaynaagna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/thaynaagna)
+[![Portfólio](https://img.shields.io/badge/Portfólio-f6f0ff?style=for-the-badge&logo=firefox-browser&logoColor=c084fc)](https://thaynaagna.github.io/portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:thaynaagna123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=c084fc)](https://www.instagram.com/thaynaagna)
 
 </div>
 
@@ -128,6 +128,7 @@ const thaynaagna = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:7c3aed&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4c1d95&height=100&section=footer)
 
 </div>
+
