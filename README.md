@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner Thayná Ágna](https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:7c3aed,100:c4b5fd&height=200&section=header&text=THAYNÁ%20ÁGNA&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=f3eeff&animation=fadeIn)
+![Banner Thayná Ágna](https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:6d28d9,100:3b0764&height=200&section=header&text=THAYNÁ%20ÁGNA&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=f3eeff&animation=fadeIn)
 
 </div>
 
